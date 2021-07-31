@@ -10,7 +10,7 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
 ###### *(Click on title for source code)*
 *[Viewable PDF here](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/bellabeat_case_study.pdf)* 
 
-*[Viewable HTML here](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/bellabeat_case_study.html)* 
+*[Viewable HTML here](file:///F:/Google%20Data%20Analytics/Capstone/Case_Study_bellabeat/bellabeat%20Case%20Study/bellabeat_case_study.html)* 
 
 * This project contains one of two case studies of Google’s Data Analytics Professional Certification provided by Google. The requirements for the case study are for the analyst to do data analysis using FitBit Fitness Tracker data to provide high-level marketing strategy recommendations for Bellabeat through the process of Ask, Prepare, Process, Analyst, Share, and Act process.
   
