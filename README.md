@@ -1,5 +1,7 @@
 #Profile
+
 [LinkedIn](https://www.linkedin.com/in/jackie-lo/)
+
 A highly self-motivated Business Administration graduate with a concentration in Information Systems and Decision Science. I’m eager to apply my data analytic and information systems skills and knowledge to support the team and the business’s needs. I have a continuous history in learning, implementing new skills and technologies for the organization’s betterment, and working in the industry with technical skills in Excel, Tableau, SQL, Python, verbal and written communication.
 
 Graduated from California State University – Fullerton with a Bachelor of Business Administration (B.A.) concentrated in Information System and Decision Science.
