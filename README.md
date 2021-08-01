@@ -1,3 +1,5 @@
+title: [Jackie Lo Portfolio]
+
 # Profile
 
 [LinkedIn](https://www.linkedin.com/in/jackie-lo/)
