@@ -20,3 +20,5 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
 
 ## Case Study using Python Panda
 ###### *(Viewable soon)*
+
+* This is a case study relating to basketball player's stat.
