@@ -1,7 +1,7 @@
 # Jackie Lo Portfolio
 
 ## Profile
-[LinkedIn](https://www.linkedin.com/in/jackie-lo/)
+[LinkedIn](https://www.linkedin.com/in/jackie-lo/)  [Indeed](https://my.indeed.com/p/jackiel-84jwhto)
 
 A highly self-motivated Business Administration graduate with a concentration in Information Systems and Decision Science. I’m eager to apply my data analytic and information systems skills and knowledge to support the team and the business’s needs. I have a continuous history in learning, implementing new skills and technologies for the organization’s betterment, and working in the industry with technical skills in Excel, Tableau, SQL, Python, verbal and written communication. Recently obtained the Google Data Analytics Certificate - a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
