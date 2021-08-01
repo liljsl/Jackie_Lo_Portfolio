@@ -14,7 +14,7 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
   
   Bellabeat is a high-tech company that manufactures health-focused innovative products like an app, Leaf (bracelet), Time (watch), and Spring (water bottle). The company also provides subscription services or membership programs for users to have 24/7 access to their fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
   
-## Simple Case Study for Reddit API
+## Case Study for Reddit API
 ###### *(Viewable soon)*
 
 ## Case Study using Python Panda
