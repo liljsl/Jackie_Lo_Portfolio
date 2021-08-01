@@ -18,7 +18,8 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
 ## Case Study for Reddit API
 ###### *(Viewable soon)*
 
-## Case Study using Python Panda
+## Case Study using Python
 ###### *(Viewable soon)*
 
+### Case Study 1: Scraping and Analyzing Basketball Statistics with Python
 * This is a case study relating to basketball player's stat.
