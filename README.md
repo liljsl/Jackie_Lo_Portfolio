@@ -1,4 +1,3 @@
-title: [Jackie Lo Portfolio]
 
 # Profile
 
