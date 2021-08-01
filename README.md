@@ -6,7 +6,7 @@ A highly self-motivated Business Administration graduate with a concentration in
 
 Graduated from California State University – Fullerton with a Bachelor of Business Administration (B.A.) concentrated in Information System and Decision Science.
 
-# [Project 1: Bellabeat Marketing Stragey/Analysis](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/bellabeat_case_study.Rmd)
+## [Project 1: Bellabeat Marketing Stragey/Analysis (R Programming)](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/bellabeat_case_study.Rmd)
 ###### *(Click on title for source code)*
 *[Viewable PDF here](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/bellabeat_case_study.pdf)* 
 
@@ -14,3 +14,6 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
   
   Bellabeat is a high-tech company that manufactures health-focused innovative products like an app, Leaf (bracelet), Time (watch), and Spring (water bottle). The company also provides subscription services or membership programs for users to have 24/7 access to their fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
   
+## Simple Case Study for Reddit API
+
+## Case Study using Python Panda
