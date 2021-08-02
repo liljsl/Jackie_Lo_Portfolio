@@ -22,7 +22,7 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
 ###### *(Continuously being updated)*
 
 ### [Case Study 1: Scraping and Analyzing Basketball Statistics with Python](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/IBM_Python%20Data%20Analytic.ipynb)
-###### *(Click on title for source code. It is continuously being updated)*
+###### *(Click on title for source code)*
 * IBM provides projects for their IBM Data Science Professional Certificate course. This project involves web scraping basketball statistics from Wikipedia of some of the greatest basketball players in the world. Then we are to perform some analysis on the data extracted using Pandas, plot, use data to answer some basic questions, then store the data. 
   
   We are collecting the data of Michael Jordan, Kobe Bryant, Lebron James, and Stephen Curry.
