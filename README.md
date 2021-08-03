@@ -14,7 +14,11 @@ Graduated from California State University – Fullerton with a Bachelor of Busi
 * This project contains one of two case studies of Google’s Data Analytics Professional Certification provided by Google. The requirements for the case study are for the analyst to do data analysis using FitBit Fitness Tracker data to provide high-level marketing strategy recommendations for Bellabeat through the process of Ask, Prepare, Process, Analyst, Share, and Act process.
   
   Bellabeat is a high-tech company that manufactures health-focused innovative products like an app, Leaf (bracelet), Time (watch), and Spring (water bottle). The company also provides subscription services or membership programs for users to have 24/7 access to their fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
-  
+
+## [Project: Analytics & Data Visualization using Tableau for Coffee House Chain](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/Tableau%20Project.pdf)
+###### *(Click on link for viewable PDF)*
+* Assume you are a marketing manager in this coffee house chain and you have a sense that there are profitability issues in your products. You don’t know exactly how to define the problem nor what factors contribute to the issues. But, you want to explore this situation by visualizing the data you’ve received from those kind folks in IT (your data mart in a single Access table—well, not the normal BI data source, but it will do).  
+
 ## [Case Study for Reddit API](https://github.com/liljsl/Jackie_Lo_Portfolio/blob/main/Simple%20Reddit%20API.ipynb)
 ###### *(Continuously being updated)*
 
